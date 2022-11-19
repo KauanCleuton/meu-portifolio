@@ -1,0 +1,8 @@
+@keyframes digitando {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 0.7;
+  }
+}
